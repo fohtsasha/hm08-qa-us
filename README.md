@@ -1,5 +1,4 @@
 Project Sprint 8- hm08-qa-us
-The README should include the project's name, a description of the project, a description of the technologies and techniques used, and instructions on how to run the tests.
 
 In this project, i tested the Urban Routes app for:
 1.Setting the address
